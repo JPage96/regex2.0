@@ -15,6 +15,6 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 
-GIST URL: <script src="https://gist.github.com/JPage96/610b19f033c830da4b1954f1a67fb56b.js"></script>
+GIST URL: https://gist.github.com/JPage96/610b19f033c830da4b1954f1a67fb56b
 
 GITHUB: https://github.com/JPage96/regex2.0/blob/main/README.md
